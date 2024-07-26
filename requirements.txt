@@ -4,4 +4,4 @@ scikit-learn
 pandas
 matplotlib
 seaborn
-pickle
+pickle-mixin
